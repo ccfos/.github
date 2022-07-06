@@ -1,5 +1,4 @@
-
-![CCF](/profile/ccf-logo.png)
+<img src="/profile/ccf-logo.png" width="240">
 
 [CCF创建开源发展委员会（CCF Opensource Development Committee, CCF ODC）](https://www.ccf.org.cn/kyfzwyh/)，是 CCF 落实国家十四五规划纲要提出的“支持数字技术开源社区等创新联合体发展”的重要举措，旨在构建产学研项目成果共享孵化机制，加速产教研深度融合的开源生态建设。
 
