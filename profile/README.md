@@ -17,6 +17,7 @@ CCF 开源发展委员会将重点聚焦共同打造开源、开放、中立的�
 - [纯粹的干货分享，CCF夜莺·2023可观测性论坛完满收官](https://flashcat.cloud/blog/nightingale-2023-summit/)
 
 ### 2024年
+1. [夜莺监控发布 v7 beta 版本，内置集成故障自愈能力，简化部署](https://mp.weixin.qq.com/s/m9JNSlwvzYvPZwtEyEqxKQ)
 
 ### 2023年
 1. [夜莺监控发布 v6.7 版本，新增机器元信息管理功能](https://flashcat.cloud/blog/nightingale-release-v6.7.1/)
@@ -25,10 +26,10 @@ CCF 开源发展委员会将重点聚焦共同打造开源、开放、中立的�
 1. [夜莺项目发布 v6.3.0 版本，增加 Loki 和 TDEngine 数据源支持](https://flashcat.cloud/blog/nightingale-release-v6.3.0/)
 1. [夜莺监控获得 7000 星，手把手带你了解国产开源监控系统](https://flashcat.cloud/blog/nightingale-opensource-china/)
 1. [夜莺项目发布 v6.1.0 版本，增强可观测性数据串联](https://flashcat.cloud/blog/nightingale-release-v6.1.0/)
-1. [夜莺项目发布v6.0.3 版本，增强告警订阅功能](https://flashcat.cloud/blog/nightingale-release-v6.0.3/)
-1. [夜莺项目发布v6.0.2 版本，增强日志查看能力](https://flashcat.cloud/blog/nightingale-release-v6.0.2/)
-1. [夜莺 V6 架构介绍](https://flashcat.cloud/blog/nightingale-v6-arch/)
-1. [不止于监控，夜莺 V6 全新升级为开源观测平台](https://flashcat.cloud/blog/nightingale-v6-release/)
+1. [夜莺项目发布 v6.0.3 版本，增强告警订阅功能](https://flashcat.cloud/blog/nightingale-release-v6.0.3/)
+1. [夜莺项目发布 v6.0.2 版本，增强日志查看能力](https://flashcat.cloud/blog/nightingale-release-v6.0.2/)
+1. [夜莺 v6 架构介绍](https://flashcat.cloud/blog/nightingale-v6-arch/)
+1. [不止于监控，夜莺 v6 全新升级为开源观测平台](https://flashcat.cloud/blog/nightingale-v6-release/)
 
 ### 2022年
 1. [夜莺成为中国计算机学会（CCF）托管的第一个开源项目](https://flashcat.cloud/blog/ccf-nightingale/)
