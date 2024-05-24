@@ -17,7 +17,9 @@ CCF 开源发展委员会将重点聚焦共同打造开源、开放、中立的�
 - [纯粹的干货分享，CCF夜莺·2023可观测性论坛完满收官](https://flashcat.cloud/blog/nightingale-2023-summit/)
 
 ### 2024年
-1. [夜莺监控发布 v7 beta 版本，内置集成故障自愈能力，简化部署](https://mp.weixin.qq.com/s/m9JNSlwvzYvPZwtEyEqxKQ)
+1. [夜莺监控发布 v7.beta4 版本，仪表盘变量和业务组的机器联动](https://flashcat.cloud/blog/nightingale-release-v7.0.0-beta4/)
+2. [夜莺Nightingale 上线 built-in metrics 功能](https://flashcat.cloud/blog/nightingale-builtin-metrics/)
+3. [夜莺监控发布 v7 beta 版本，内置集成故障自愈能力，简化部署](https://mp.weixin.qq.com/s/m9JNSlwvzYvPZwtEyEqxKQ)
 
 ### 2023年
 1. [夜莺监控发布 v6.7 版本，新增机器元信息管理功能](https://flashcat.cloud/blog/nightingale-release-v6.7.1/)
