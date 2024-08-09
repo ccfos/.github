@@ -4,16 +4,19 @@ CCF开源发展委员会(CCF ODC)秉承创新、开放、协作、共享的理�
 
 > [夜莺监控 - Nightingale](https://github.com/ccfos/nightingale)
 
-夜莺监控 (Nightingale) 是一款开源云原生监控工具，采用 All-In-One 的设计理念，集数据采集、可视化、监控告警、数据分析于一体，与云原生生态紧密集成，提供开箱即用的企业级监控分析能力。夜莺监控项目，由滴滴开发和开源，并于 2022 年 5 月 11 日，捐赠予中国计算机学会开源发展委员会（CCF ODC），为 CCF ODC 成立后接受捐赠的第一个开源项目。
+夜莺监控 (Nightingale) 是一款开源云原生监控工具，采用 All-in-One 的设计理念，集数据采集、可视化、监控告警、数据分析于一体，与云原生生态紧密集成，提供开箱即用的企业级监控分析能力。夜莺监控项目，由滴滴开发和开源，并于 2022 年 5 月 11 日，捐赠予中国计算机学会开源发展委员会（CCF ODC），为 CCF ODC 成立后接受捐赠的第一个开源项目。
 
 夜莺集合了 Prometheus 和 Grafana 的优点，你可以在 WebUI 上管理和配置告警策略，通过各种渠道分发告警，也可以对分布在多个 Region 的指标、日志、链路追踪数据进行统一的可视化和分析。夜莺融入了顶级互联网公司可观测性最佳实践，沉淀了众多社区专家经验，开箱即用。
 
 ## 社区动态
 
 ### 置顶
-- [纯粹的干货分享，CCF夜莺·2023可观测性论坛完满收官](https://flashcat.cloud/blog/nightingale-2023-summit/)
+1. [第二届CCF·夜莺开发者创新论坛成功举办，免费领取 PPT](https://mp.weixin.qq.com/s/-fHH8kNEwHmBDt6oDnUu_Q)
+1. [纯粹的干货分享，CCF夜莺·2023可观测性论坛完满收官](https://flashcat.cloud/blog/nightingale-2023-summit/)
 
 ### 2024年
+1. [夜莺 v7 正式发布，聚焦提升用户体验](https://mp.weixin.qq.com/s/yX9SoH39UzrxTpow-bAzQA)
+2. [从第二届CCF夜莺创新论坛，看业界可观测性关注方向](https://mp.weixin.qq.com/s/_JXSiCWjseVMKULYUQu1ig)
 1. [夜莺监控发布 v7.beta4 版本，仪表盘变量和业务组的机器联动](https://flashcat.cloud/blog/nightingale-release-v7.0.0-beta4/)
 2. [夜莺Nightingale 上线 built-in metrics 功能](https://flashcat.cloud/blog/nightingale-builtin-metrics/)
 3. [夜莺监控发布 v7 beta 版本，内置集成故障自愈能力，简化部署](https://mp.weixin.qq.com/s/m9JNSlwvzYvPZwtEyEqxKQ)
