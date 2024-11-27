@@ -15,6 +15,7 @@ CCF开源发展委员会(CCF ODC)秉承创新、开放、协作、共享的理�
 1. [纯粹的干货分享，CCF夜莺·2023可观测性论坛完满收官](https://flashcat.cloud/blog/nightingale-2023-summit/)
 
 ### 2024年
+1. [夜莺 v7 特性和功能全览，承前启后展望v8](https://flashcat.cloud/blog/nightingale-release-v7final/)
 1. [夜莺 v7 正式发布，聚焦提升用户体验](https://mp.weixin.qq.com/s/yX9SoH39UzrxTpow-bAzQA)
 2. [从第二届CCF夜莺创新论坛，看业界可观测性关注方向](https://mp.weixin.qq.com/s/_JXSiCWjseVMKULYUQu1ig)
 1. [夜莺监控发布 v7.beta4 版本，仪表盘变量和业务组的机器联动](https://flashcat.cloud/blog/nightingale-release-v7.0.0-beta4/)
